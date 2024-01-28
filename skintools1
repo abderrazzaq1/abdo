@@ -1,6 +1,5 @@
-1. {
-2.     "NetworkAds":"applovin",
-3.     "newAppStatus":"off",
-4.     "appPackage":"com.kiloo.subwaysurf",
-5.  
+{
+  "adNetwork": "applovin"
+  "newAppStatus":"off",
+  "appPackage":"com.kiloo.subwaysurf",
 }
