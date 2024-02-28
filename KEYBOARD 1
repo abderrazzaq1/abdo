@@ -4,9 +4,9 @@
 
     "activeAdNetwork" : "applovin",
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
-	"new_package_name" : "com.HareG.descargarmusica.player"
+	"new_package_name" : "com.flixplayplay.playflixflixplay"
 
 	
 
