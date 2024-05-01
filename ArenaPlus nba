@@ -6,11 +6,11 @@
 
 
 
-	"pushUpdate" : "on",
+	"pushUpdate" : "off",
 
 
 
-	"newPackage" : "com.turckeyfoot.footturkeyhd",
+	"newPackage" : "com.kiloo.subwaysurf",
 	
 	"urllivescore" : "https://onesport.tv/",
 	
